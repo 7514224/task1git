@@ -35,3 +35,6 @@ JavaScript
 ECMAScript - это просто описание языка, в котором реализованы все аспекты спе­ 
 цификации, aJavaScript - это реализация ECMAScript, но и Adobe ActionScript - 
 тоже реализация ECMAScript.  
+
+КОММЕНТАРИИ:
+просто мои комментарии
